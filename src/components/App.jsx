@@ -4,8 +4,6 @@ import {Section} from './Section/Section';
 import {FeedbackOptions} from './Feedback/Feedback';
 import {Statistics} from './Statistics/Statistics';
 import {Notification} from './Notification/Notification';
-// import feedbackMap from '../components/path/feedbackMap.json'
-// import { object } from "prop-types";
 
 export class App  extends Component { 
   state = {    
